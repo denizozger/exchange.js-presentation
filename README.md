@@ -18,3 +18,5 @@ The Socket.IO application that I used in my presentation at http://www.exchangej
 - Fallback if websockets are not supported (http://caniuse.com/#feat=websockets)
 - Compression/gzip
 - Performance
+- Ease of scalability
+- 
