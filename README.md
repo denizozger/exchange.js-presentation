@@ -6,6 +6,7 @@ The Socket.IO application that I used in my presentation at http://www.exchangej
 ## History
 - http://en.wikipedia.org/wiki/Comet_(programming)
 - Long-polling
+- Web sockets
 
 ## Usages
 - Real-time analytics 
@@ -14,17 +15,17 @@ The Socket.IO application that I used in my presentation at http://www.exchangej
 - Collobration (Trello) (Drawing, whiteboards)
 
 ## Popular frameworks
-- ws
-- Socket.io
-- Engine.io
-- Sock.js
-- Primus
+- Socket.io (most popular)
+- Sock.js (trending)
+- Primus (ability to switch frameworks)
+- Engine.io (Socket.io is built on -abstraction of- Engine.io)
+- ws (fastest)
 
 ## Important features to look for
 - Support for rooms
 - Fallback if websockets are not supported (http://caniuse.com/#feat=websockets)
 - Performance
 - Ease of scalability
-- Compression/gzip
+- Auto-reconnecting after disconnect
 
 
