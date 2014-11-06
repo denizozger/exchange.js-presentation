@@ -1,4 +1,4 @@
-exchange.js-presentation
+Exchange.js Presentation
 ========================
 
 The Socket.IO application that I used in my presentation at http://www.exchangejs.com/, and some notes.
