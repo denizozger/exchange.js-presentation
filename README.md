@@ -13,10 +13,18 @@ The Socket.IO application that I used in my presentation at http://www.exchangej
 - Streaming (audio, video)
 - Collobration (Trello) (Drawing, whiteboards)
 
-## Features to look for
+## Popular frameworks
+- ws
+- Socket.io
+- Engine.io
+- Sock.js
+- Primus
+
+## Important features to look for
 - Support for rooms
 - Fallback if websockets are not supported (http://caniuse.com/#feat=websockets)
-- Compression/gzip
 - Performance
 - Ease of scalability
-- 
+- Compression/gzip
+
+
