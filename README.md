@@ -3,10 +3,14 @@ exchange.js-presentation
 
 The Socket.IO application that I used in my presentation at http://www.exchangejs.com/, and some notes.
 
-## History
+## Outline
+- Simple chat application demo
+- Chat application code walkthrough
+- https://medium.com/@denizozger/finding-the-right-node-js-websocket-implementation-b63bfca0539
+
+## Before web sockets
 - http://en.wikipedia.org/wiki/Comet_(programming)
 - Long-polling
-- Web sockets
 
 ## Usages
 - Real-time analytics 
