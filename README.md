@@ -28,7 +28,6 @@ The Socket.IO application that I used in my presentation at http://www.exchangej
 ## Important features to look for
 - Support for rooms
 - Fallback if websockets are not supported (http://caniuse.com/#feat=websockets)
-- Performance
 - Ease of scalability
 - Auto-reconnecting after disconnect
 
